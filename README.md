@@ -16,7 +16,7 @@ PYNQ를 사용하여 Zybo z7-20 보드로 영상처리를 수행하는 프로젝
 
 ### 2. Zybo-z7-20 보드 연결 사진
 <br>
-![1702878263 7377648IMG_8132](https://github.com/bimbimbab123/PYNQ-Zyboz720-Video_Processing/assets/154115694/10b7a99b-9df9-4dc5-b52b-a1b86ef52e33)
+![1702878263 7377648IMG_8132](https://github.com/bimbimbab123/PYNQ-Zyboz720-Video_Processing/assets/154115694/249471c5-fdab-4a5f-91b1-818d719bda96)
 
 ### 3. Haar Cascades를 이용한 얼굴과 눈 검출 처리
 - 실행파일: final_face_detection_Video.ipynb
