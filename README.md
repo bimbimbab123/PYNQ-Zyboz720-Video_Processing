@@ -16,5 +16,5 @@ sd card image 출처:
 
 ### 3. Haar Cascades를 이용한 얼굴과 눈 검출
 
-#### 결과 사진
+#### * 결과 사진
 ![ClipboardImage_2023-12-18_144624](https://github.com/bimbimbab123/PYNQ-Zyboz720-Video_Processing/assets/154115694/48cedf3c-7a7b-44ed-a20c-ee3ff2f2fa32)
