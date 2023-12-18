@@ -4,16 +4,11 @@ PYNQ를 사용하여 Zybo z7-20 보드로 영상처리를 수행하는 프로젝
 
 ---
 
-<<<<<<< HEAD
 ## 프로젝트 개요
-=======
-### 프로젝트 개요
->>>>>>> 6ef927aaaa482f0d9ef2fee2e75b1eaa710e4816
 사용자 정의 영상을 입력받아 HDMI로 영상을 출력한다. 주 프로젝트 주제는 opencv에서 제공하는 Haar Cascades 모델을 사용한 face&eyes detection 영상처리이다.
 
 ---
 
-<<<<<<< HEAD
 ### 1. PYNQ 2.7 이미지
 * sd card image 출처:
 <https://discuss.pynq.io/t/pynq-2-7-for-zybo-z7/4124>
@@ -21,53 +16,28 @@ PYNQ를 사용하여 Zybo z7-20 보드로 영상처리를 수행하는 프로젝
 
 ### 2. Zybo-z7-20 보드 연결 사진
 <br>
-![1702878263 7377648IMG_8132](https://github.com/bimbimbab123/PYNQ-Zyboz720-Video_Processing/assets/154115694/eaa1905a-3151-4ee5-9278-f681530b161f)
+![1702878263 7377648IMG_8132](https://github.com/bimbimbab123/PYNQ-Zyboz720-Video_Processing/assets/154115694/10b7a99b-9df9-4dc5-b52b-a1b86ef52e33)
 
 ### 3. Haar Cascades를 이용한 얼굴과 눈 검출 처리
 - 실행파일: final_face_detection_Video.ipynb
 
 #### * 결과 사진
-=======
-#### 1. PYNQ 2.7 이미지
-sd card image 출처:
-<https://discuss.pynq.io/t/pynq-2-7-for-zybo-z7/4124>
+<br>
+![ClipboardImage_2023-12-18_144624](https://github.com/bimbimbab123/PYNQ-Zyboz720-Video_Processing/assets/154115694/29d7704d-e7f5-4163-a3da-a59c0120d272)
 <br>
 
-#### 2. Zybo-z7-20 보드 연결 사진
-<br>
-![1702878263 7377648IMG_8132](https://github.com/bimbimbab123/PYNQ-Zyboz720-Video_Processing/assets/154115694/eaa1905a-3151-4ee5-9278-f681530b161f)
-
-#### 3. Haar Cascades를 이용한 얼굴과 눈 검출 처리
-- 실행파일: final_face_detection_Video.ipynb
-
-##### * 결과 사진
->>>>>>> 6ef927aaaa482f0d9ef2fee2e75b1eaa710e4816
-<br>
-![ClipboardImage_2023-12-18_144624](https://github.com/bimbimbab123/PYNQ-Zyboz720-Video_Processing/assets/154115694/48cedf3c-7a7b-44ed-a20c-ee3ff2f2fa32)
-<br>
-
-<<<<<<< HEAD
 #### * 결과 gif 파일
-=======
-##### * 결과 gif 파일
->>>>>>> 6ef927aaaa482f0d9ef2fee2e75b1eaa710e4816
 facedetection_output.gif
 
 ---
 
-<<<<<<< HEAD
 ### 번외.  Canny Edge Detection 필터를 이용한 영상처리
 - 실행파일: final_face_detection_Video.ipynb
-
+- 참고사이트: <https://github.com/Xilinx/PYNQ/blob/master/boards/Pynq-Z1/base/notebooks/video/opencv_face_detect_hdmi.ipynb>
+  
 #### * 결과 사진
-=======
-#### 번외.  Canny Edge Detection 필터를 이용한 영상처리
-- 실행파일: final_face_detection_Video.ipynb
-
-##### * 결과 사진
->>>>>>> 6ef927aaaa482f0d9ef2fee2e75b1eaa710e4816
 <br>
-<https://github.com/Xilinx/PYNQ/blob/master/boards/Pynq-Z1/base/notebooks/video/opencv_face_detect_hdmi.ipynb>
+![1702623024 2062569IMG_8483](https://github.com/bimbimbab123/PYNQ-Zyboz720-Video_Processing/assets/154115694/69b7c829-caf7-4f0f-b710-3ed9132d8f96
 
 ---
 
