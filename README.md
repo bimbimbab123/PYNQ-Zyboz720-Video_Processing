@@ -1,4 +1,4 @@
-# PYNQ-Zyboz720-Video_Processing
+# PYNQ Zybo-Z7-20 Video Processing
 
 PYNQ를 사용하여 Zybo z7-20 보드로 영상처리를 수행하는 프로젝트이다.
 
