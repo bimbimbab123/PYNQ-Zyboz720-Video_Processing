@@ -21,9 +21,7 @@ PYNQ를 사용하여 Zybo z7-20 보드로 영상처리를 수행하는 프로젝
 - 실행파일: final_face_detection_Video.ipynb
 
 #### * 결과 사진
-<br>
 ![ClipboardImage_2023-12-18_144624](https://github.com/bimbimbab123/PYNQ-Zyboz720-Video_Processing/assets/154115694/29d7704d-e7f5-4163-a3da-a59c0120d272)
-<br>
 
 #### * 결과 gif 파일
 facedetection_output.gif
@@ -35,7 +33,6 @@ facedetection_output.gif
 - 참고사이트: <https://github.com/Xilinx/PYNQ/blob/master/boards/Pynq-Z1/base/notebooks/video/opencv_face_detect_hdmi.ipynb>
   
 #### * 결과 사진
-<br>
 ![1702623024 2062569IMG_8483](https://github.com/bimbimbab123/PYNQ-Zyboz720-Video_Processing/assets/154115694/69b7c829-caf7-4f0f-b710-3ed9132d8f96
 
 ---
