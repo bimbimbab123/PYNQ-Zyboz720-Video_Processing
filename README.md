@@ -27,8 +27,7 @@ PYNQ를 사용하여 Zybo z7-20 보드로 영상처리를 수행하는 프로젝
 facedetection_output.gif
 
 ---
-
-### 번외.  Canny Edge Detection 필터를 이용한 영상처리
+### - 번외.  Canny Edge Detection 필터를 이용한 영상처리
 - 실행파일: final_face_detection_Video.ipynb
 - 참고사이트: <https://github.com/Xilinx/PYNQ/blob/master/boards/Pynq-Z1/base/notebooks/video/opencv_face_detect_hdmi.ipynb>
   
@@ -40,6 +39,4 @@ facedetection_output.gif
 #### - 참고 사이트
 1. https://pynq.readthedocs.io/en/v2.1/pynq_overlays/base_overlay.html
 2. https://gitlab.com/dorfell/fer_sys_dev/-/tree/master/01_hw/Pynq_Zybo-Z7
-3. https://github.com/Xilinx/PYNQ/blob/master/boards/Pynq-Z1/base/notebooks/video/opencv_face_detect_webcam.ipynb
-4. https://github.com/Xilinx/PYNQ/blob/master/boards/Pynq-Z1/base/notebooks/video/opencv_filters_hdmi.ipynb
-5. https://github.com/ptoupas/amd-open-hardware-23
+3. https://github.com/ptoupas/amd-open-hardware-23
